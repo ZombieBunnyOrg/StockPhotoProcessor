@@ -1,0 +1,18 @@
+{
+    "SMUGMUG_ACCESS_TOKEN_JSON": "PATH INCLUDING FILE NAME TO JSON THAT CONTAINS SMUGMUG ACCESS TOKEN",
+    "SMUGMUG_API_KEY": "SMUGMUG API KEY",
+    "SMUGMUG_OAUTH_SECRET": "SMUGMUG OAUTH SECRET",
+    "SMUGMUG_USER": "SMUGMUG Username you would find in your URL",
+    "SMUGMUG_EXCLUDE_ALBUM_NAMES": "Dollar sign delimited list of albums you want to skip",
+    "SMUGMUG_SKIP_ALBUM_COUNT": 0,
+    "GOOGLE_VISION_KEY_JSON": "Full path including file name to you Google Keys Json file",
+    "TagLimit": 50,
+    "TitleLimit": 6,
+    "ADOBE_KNOWN_HOSTS_FILE": "Full path including file name to you Google Keys Json known_hosts.txt",
+    "ADOBE_USER": "ADOBE_USER ID" ,
+    "ADOBE_PASSWORD": "ADOBE_PASSWORD",
+    "SHUTTER_USER": "SHUTTER_USER",
+    "SHUTTER_PASSWORD": "SHUTTER_PASSWORD",
+    "WORKING_PATH": "FOLDER Path to the workign directory you will want to keep and not distroy",
+    "LOCAL_IMAGES_TO_PROCESS_PATH": "FOLDER Path to the directory you want to process local images"
+}
