@@ -1,0 +1,11 @@
+{"Token": {"id": "xxx", 
+"Secret": "xxx", 
+"Access": "Full", 
+"Permissions": "Modify"}, 
+"User": {"id": ######, "Name": "xxxxx", 
+"NickName": "xxxx", 
+"URL": "https://xxxx.smugmug.com", 
+"AccountStatus": "Active", 
+"AccountType": "Power", 
+"FileSizeLimit": 524288000, 
+"SmugVault": false}}
