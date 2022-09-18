@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Stock Photo Processor",
+            "name": "Stock Photo Processor: http://zombiebunny.org",
             "type": "python",
             "request": "launch",
             "program": "${file}",
