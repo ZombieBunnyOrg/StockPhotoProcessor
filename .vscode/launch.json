@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Stock Photo Processor",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["\\\\HomeNAS\\Mark\\APIKeys\\config.json"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
