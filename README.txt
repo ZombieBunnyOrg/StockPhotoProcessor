@@ -15,4 +15,6 @@ To Use:
 Create a config.json based on the sample on Github
 
 Refer to SmugMug, ShutterStock, Adobe Stock and Google Vision to gather the required API, OAUTH and Json values to populate the config file
-
+Google Vision:  https://cloud.google.com/vision/docs/setup
+SFTP For Adobe Stock: https://www.developer.com/languages/python/python-sftp/
+Use the provided example for ShutterStock JSON and Adobe.  You will login to your accoutn to get the required input list API Keys, etc.
